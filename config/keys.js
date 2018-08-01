@@ -1,3 +1,4 @@
 module.exports = {
-  mongoURI: "" //Insert mongoDB URI
+  mongoURI: "",
+  secretOrKey: "" //Insert mongoDB URI + secretOrKey
 };
